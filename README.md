@@ -59,6 +59,25 @@ Follow the steps below to install and setup the project:
 
     Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-    ## License
+## Contributing
 
-[MIT](https://github.com/Hackerzspace/FramePhase/blob/main/LICENSE)
+Contributions to FramePhase are welcome! To contribute, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/my-feature`).
+3. Make your changes and commit them (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature/my-feature`).
+5. Create a new Pull Request.
+
+Please ensure your code adheres to the existing code style and conventions.
+
+## License
+
+FramePhase is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+## Contact
+
+If you have any questions, suggestions, or issues regarding DevLink, feel free to contact us at kyadapavan0016@gmail.com.
+
+Let's collaborate and grow together!
